@@ -15,9 +15,11 @@ body {
 
 h2 {
   font-family: 'Lato', 'Arial';
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 400;
   text-align: center;
+  height: 60px;
+  margin: 5px; 
 }
 
 h1 {
@@ -36,7 +38,7 @@ button {
   border-radius: 5px;
   padding: 10px 30px;
   text-align: center;
-  margin: 0 auto;
+  margin: 15px auto;
   display: block;
   cursor: pointer;
 }
